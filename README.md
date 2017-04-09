@@ -1,1 +1,1 @@
-# Flashcard-Generator-
+In this Flash Card generator I have three options 1) Make Basic Flash card 2) Make Cloze Flash Card and 3) Study Flash Card If user choose Basic Card then he/she can make  question and answer. if user choose Cloze card then can make  string and choose which can be the cloze and can see the partial text. All data can log in the text file the same text file is using for study flash card. I am still working on the Study card i think which is optinal. 
